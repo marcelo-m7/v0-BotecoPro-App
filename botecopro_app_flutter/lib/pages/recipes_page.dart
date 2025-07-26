@@ -247,7 +247,7 @@ class _RecipesPageState extends State<RecipesPage> {
                     controller: nameController,
                     decoration: const InputDecoration(
                       labelText: 'Nome da Receita*',
-                      hintText: 'Ex: Caipirinha, Batata Frita...',
+                      hintText: 'Ex: Caipirinha, Bolinho de Carne...',
                     ),
                   ),
                   const SizedBox(height: 16),
